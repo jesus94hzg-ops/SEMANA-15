@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa clásica",
+        "categoria": "Comida",
+        "precio": 5.5,
+        "stock": 9
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Papas fritas",
+        "categoria": "Acompañamiento",
+        "precio": 2.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Gaseosa",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Jugo Natural",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "stock": 10
+    }
+]
